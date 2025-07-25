@@ -1,0 +1,25 @@
+# Experimental block
+# Ligand, expt_DDG, expt_dDDG
+lig_1,-8.56,0.00
+lig_2,-9.08,0.00
+lig_3,-9.85,0.00
+lig_4,-9.39,0.00
+lig_5,-10.91,0.00
+lig_6,-9.64,0.00
+lig_7,-10.37,0.00
+lig_8,-9.35,0.00
+lig_9,-10.17,0.00
+
+# Calculated block
+# Ligand1,Ligand2,calc_DDG,calc_dDDG(MBAR),calc_dDDG(additional)
+lig_1,lig_2,-0.20,0,0.20
+lig_1,lig_5,-0.80,0,0.20
+lig_3,lig_2,-0.20,0,0.20
+lig_3,lig_5,-0.60,0,0.40
+lig_3,lig_6,-0.20,0,0.20
+lig_3,lig_8,0.20,0,0.20
+lig_4,lig_7,-1.30,0,0.40
+lig_5,lig_8,1.00,0,0.20
+lig_7,lig_6,0.10,0,0.20
+lig_9,lig_4,1.00,0,0.80
+lig_9,lig_5,0.50,0,0.10

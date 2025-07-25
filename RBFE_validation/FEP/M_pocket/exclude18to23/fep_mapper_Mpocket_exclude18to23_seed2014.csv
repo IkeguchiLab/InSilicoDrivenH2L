@@ -1,0 +1,15 @@
+Ligand1,Ligand2,Exp.,Exp Error,FEP,FEP Error,Unsigned Diff,CCC,CCC Error,Energy Conv.,Lig. RMSD,REST Exch.,CCC Conv.,Solvent Trajectory,Complex Trajectory,Vacuum Trajectory,Protocol
+13,32,0.73,N/A,0.84,0.16,0.11,1.0,0.26,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+27,13,-0.48,N/A,-0.11,0.22,0.38,0.02,0.28,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
+28,13,-1.36,N/A,-0.35,0.2,1.01,-0.24,0.26,Fair,Fair,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
+28,31,-0.41,N/A,0.31,0.12,0.72,0.26,0.21,Fair,Fair,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+28,36,-1.62,N/A,-0.13,0.1,1.49,-0.19,0.26,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+29,27,-0.42,N/A,-0.94,0.11,0.52,-0.82,0.28,Fair,Fair,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
+30,32,0.9,N/A,0.54,0.04,0.36,0.38,0.26,Good,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
+30,34,-0.54,N/A,-1.61,0.07,1.07,-1.51,0.2,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+30,35,0.25,N/A,0.98,0.09,0.73,1.04,0.26,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+31,29,-0.05,N/A,0.17,0.19,0.22,0.3,0.28,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+31,33,-1.21,N/A,0.51,0.08,1.72,0.33,0.28,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+33,13,0.26,N/A,-0.75,0.12,1.01,-0.83,0.28,Fair,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,core-hopping
+33,34,-0.46,N/A,-1.62,0.07,1.16,-1.72,0.2,Good,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
+35,36,-0.34,N/A,-1.68,0.05,1.34,-1.62,0.26,Good,Good,Fair,Good,5.0 ns,5.0 ns,5.0 ns,default
