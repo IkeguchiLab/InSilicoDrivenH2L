@@ -1,0 +1,14 @@
+[ moleculetype ]
+; Name            nrexcl
+Ion_chain_A2        3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+; residue 901 ZN  rtp ZN   q +2.0
+     1         Zn    901     ZN     ZN      1          2       65.4   ; qtot 2
+
+; Include Position restraint file
+#ifdef POSRES
+#include "posre_Ion_chain_A2.itp"
+#endif
+

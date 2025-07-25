@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --job-name=prep_lig
+#SBATCH --get-user-env
+#SBATCH -N 1
+#SBATCH -n 2
+#SBATCH --partition=c4l
+
+source ../config.bash
+module load intelmpi
+
+source /share/local/miniforge3/etc/profile.d/conda.sh
+conda activate AmberTools
+
+date
+./prepare_lig.sh
+date

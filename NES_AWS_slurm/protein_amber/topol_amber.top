@@ -1,0 +1,31 @@
+; Include forcefield parameters
+#include "amber99sb-star-ildn-mut.ff/forcefield.itp"
+
+; Include chain topologies
+#include "topol_Protein_chain_A.itp"
+#include "topol_Ion_chain_A2.itp"
+#include "topol_Other_chain_A3.itp"
+
+; Include water topology
+#include "amber99sb-star-ildn-mut.ff/tip3p.itp"
+
+#ifdef POSRES_WATER
+; Position restraint for each water oxygen
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif
+
+; Include topology for ions
+#include "amber99sb-star-ildn-mut.ff/ions.itp"
+
+[ system ]
+; Name
+HUMAN PDE9 IN COMPLEX WITH SELECTIVE INHIBITOR
+
+[ molecules ]
+; Compound        #mols
+Protein_chain_A     1
+Ion_chain_A2        1
+Other_chain_A3      1
+SOL                 4
