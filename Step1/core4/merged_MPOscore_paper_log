@@ -1,0 +1,76 @@
+Column: S+logP
+Counts:
+0    11355382
+1    15289986
+2    15618468
+3     8767080
+4     2838185
+5      648379
+Name: S+logP_bin, dtype: int64
+Percentages:
+0    20.828883
+1    28.046025
+2    28.648551
+3    16.081228
+4     5.206009
+5     1.189305
+Name: S+logP_bin, dtype: float64
+
+Column: S+Sw_uM
+Counts:
+0     3678451
+1     7562077
+2     4372200
+3    38904752
+Name: S+Sw_uM_bin, dtype: int64
+Percentages:
+0     6.747287
+1    13.870922
+2     8.019813
+3    71.361978
+Name: S+Sw_uM_bin, dtype: float64
+
+Column: CYP_HLM_CLint
+Counts:
+0    44224796
+1     8076402
+2     1933439
+3      282843
+Name: CYP_HLM_CLint_bin, dtype: int64
+Percentages:
+0    81.120397
+1    14.814335
+2     3.546457
+3     0.518812
+Name: CYP_HLM_CLint_bin, dtype: float64
+
+Column: S+Peff
+Counts:
+0    47664099
+1     6621069
+2      225836
+3        6476
+Name: S+Peff_bin, dtype: int64
+Percentages:
+0    87.429021
+1    12.144855
+2     0.414245
+3     0.011879
+Name: S+Peff_bin, dtype: float64
+
+Column: MPO_score
+Counts:
+0     1573067
+1     4966742
+2     7741321
+3    39886613
+4      349737
+Name: MPO_score_bin, dtype: int64
+Percentages:
+0     2.885436
+1     9.110366
+2    14.199704
+3    73.162980
+4     0.641514
+Name: MPO_score_bin, dtype: float64
+
