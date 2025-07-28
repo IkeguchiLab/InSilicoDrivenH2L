@@ -29,7 +29,7 @@ def make_init_mol(mol):
             atom.SetAtomicNum(0)
     return init_mol, attachment_index
 
-selected_rgroups = read_sdf_file('Rgroup_select_30504.sdf')
+selected_rgroups = read_sdf_file('Rgroup_select_30477.sdf')
 title_list = [mol.GetProp("_Name") for mol in selected_rgroups]
 
 merge_smiles_list=[]
