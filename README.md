@@ -18,5 +18,6 @@ InSilicoDrivenH2L/
 ├── Step2/ # H pocket optimization and screening results
 ├── Step3/ # M pocket optimization and screening results
 ├── conda_env/ # Conda virtual environment used for the study
+├── Appendix/ # tautomer, UGT
 └── README.md
 ```
