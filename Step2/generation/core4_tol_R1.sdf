@@ -1,0 +1,265 @@
+core4_neutral_tol_R1
+     RDKit          3D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 35 37 0 0 1
+M  V30 BEGIN ATOM
+M  V30 1 C 79.838400 49.044200 37.823300 0
+M  V30 2 C 78.900600 49.673500 38.832900 0
+M  V30 3 C 77.509100 49.658000 38.616600 0
+M  V30 4 C 76.634500 50.215900 39.568300 0
+M  V30 5 C 77.131200 50.857100 40.726400 0
+M  V30 6 C 78.534900 50.858000 40.933500 0
+M  V30 7 C 79.409300 50.268700 40.000800 0
+M  V30 8 C 76.198200 51.535000 41.684800 0
+M  V30 9 C 76.382600 51.428000 43.036000 0
+M  V30 10 C 77.413300 50.653900 43.648400 0
+M  V30 11 N 78.268300 50.058000 44.159300 0
+M  V30 12 C 75.488500 52.064400 44.010400 0
+M  V30 13 O 75.612500 51.995300 45.232500 0
+M  V30 14 N 74.472300 52.760000 43.476600 0
+M  V30 15 C 74.245000 52.914900 42.114500 0
+M  V30 16 C 75.072000 52.362200 41.195400 0
+M  V30 17 C 74.854300 52.693400 39.714700 0
+M  V30 18 N 73.947200 53.911200 39.472400 0
+M  V30 19 C 72.679200 53.814500 40.321800 0
+M  V30 20 C 73.041800 53.797700 41.811300 0 CFG=2
+M  V30 21 H 80.719500 48.633000 38.317800 0
+M  V30 22 H 80.165600 49.786400 37.094500 0
+M  V30 23 H 79.342100 48.233800 37.290100 0
+M  V30 24 H 77.100700 49.208100 37.723900 0
+M  V30 25 H 75.574400 50.136200 39.389800 0
+M  V30 26 H 78.973600 51.334000 41.796100 0
+M  V30 27 H 80.472200 50.291500 40.181400 0
+M  V30 28 H 73.829000 53.240700 44.097400 0
+M  V30 29 H 75.814400 52.853300 39.222900 0
+M  V30 30 H 74.372500 51.841600 39.236500 0
+M  V30 31 H 72.136300 52.904400 40.063500 0
+M  V30 32 H 72.010000 54.647700 40.107800 0
+M  V30 33 H 72.185100 53.476200 42.405300 0
+M  V30 34 R 73.278500 54.813500 42.134200 0
+M  V30 35 H 74.443123 54.755547 39.719863 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 2 1
+M  V30 2 2 3 2
+M  V30 3 1 4 3
+M  V30 4 2 5 4
+M  V30 5 1 6 5
+M  V30 6 1 7 2
+M  V30 7 2 7 6
+M  V30 8 1 8 5
+M  V30 9 2 9 8
+M  V30 10 1 10 9
+M  V30 11 3 11 10
+M  V30 12 1 12 9
+M  V30 13 2 13 12
+M  V30 14 1 14 12
+M  V30 15 1 15 14
+M  V30 16 1 16 8
+M  V30 17 2 16 15
+M  V30 18 1 17 16
+M  V30 19 1 18 17
+M  V30 20 1 19 18
+M  V30 21 1 20 15
+M  V30 22 1 20 19
+M  V30 23 1 21 1
+M  V30 24 1 22 1
+M  V30 25 1 23 1
+M  V30 26 1 24 3
+M  V30 27 1 25 4
+M  V30 28 1 26 6
+M  V30 29 1 27 7
+M  V30 30 1 28 14
+M  V30 31 1 29 17
+M  V30 32 1 30 17
+M  V30 33 1 31 19
+M  V30 34 1 32 19
+M  V30 35 1 20 33 CFG=1
+M  V30 36 1 34 20
+M  V30 37 1 35 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+>  <i_epik_Tot_Q>  (1) 
+0
+
+>  <i_epik_Tot_abs_Q>  (1) 
+0
+
+>  <i_f3d_flags>  (1) 
+0
+
+>  <i_i_glide_confnum>  (1) 
+4
+
+>  <i_i_glide_lignum>  (1) 
+1
+
+>  <i_i_glide_posenum>  (1) 
+3
+
+>  <i_i_glide_rotatable_bonds>  (1) 
+1
+
+>  <i_lp_mmshare_version>  (1) 
+61128
+
+>  <i_m_Source_File_Index>  (1) 
+1
+
+>  <i_m_stars>  (1) 
+2
+
+>  <b_lp_Chiralities_Consistent>  (1) 
+1
+
+>  <b_m_subgroup_collapsed>  (1) 
+0
+
+>  <r_epik_Charging_Adjusted_Penalty>  (1) 
+0.00251279
+
+>  <r_epik_Ionization_Penalty>  (1) 
+0.0025000000000000001
+
+>  <r_epik_Ionization_Penalty_Charging>  (1) 
+0.0025000000000000001
+
+>  <r_epik_Ionization_Penalty_Neutral>  (1) 
+0
+
+>  <r_epik_State_Penalty>  (1) 
+0
+
+>  <r_i_docking_score>  (1) 
+-8.0944599999999998
+
+>  <r_i_glide_ecoul>  (1) 
+-5.4788899999999998
+
+>  <r_i_glide_eff_state_penalty>  (1) 
+0
+
+>  <r_i_glide_einternal>  (1) 
+2.4047500000000001e-08
+
+>  <r_i_glide_emodel>  (1) 
+-56.116599999999998
+
+>  <r_i_glide_energy>  (1) 
+-35.2622
+
+>  <r_i_glide_erotb>  (1) 
+0.178093
+
+>  <r_i_glide_esite>  (1) 
+-0.0156921
+
+>  <r_i_glide_evdw>  (1) 
+-29.783300000000001
+
+>  <r_i_glide_gscore>  (1) 
+-8.0944599999999998
+
+>  <r_i_glide_hbond>  (1) 
+-0.45842699999999997
+
+>  <r_i_glide_ligand_efficiency>  (1) 
+-0.404723
+
+>  <r_i_glide_ligand_efficiency_ln>  (1) 
+-2.0257800000000001
+
+>  <r_i_glide_ligand_efficiency_sa>  (1) 
+-1.09859
+
+>  <r_i_glide_lipo>  (1) 
+-2.2733400000000001
+
+>  <r_i_glide_metal>  (1) 
+0
+
+>  <r_i_glide_rewards>  (1) 
+-3.2141000000000002
+
+>  <r_i_glide_rmsd>  (1) 
+0.121568
+
+>  <r_lp_Energy>  (1) 
+33.465200000000003
+
+>  <r_lp_tautomer_probability>  (1) 
+1
+
+>  <r_psp_Lig_Strain_Energy>  (1) 
+4.8168899999999999
+
+>  <r_psp_MMGBSA_dG_Bind>  (1) 
+-19.113800000000001
+
+>  <r_psp_Rec_Strain_Energy>  (1) 
+0
+
+>  <r_user_IC50>  (1) 
+530
+
+>  <r_user_exp_dg>  (1) 
+-8.5286000000000008
+
+>  <s_epik_cmdline>  (1) 
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+>  <s_epik_input>  (1) 
+W0NIM11jMVtjSF1bY0hdYyhbY0hdW2NIXTEpLWMoYyhDI04pYyg9TylbbkhdMiljKGMyMylbQ0gyXVtDSDJdW0NIMl1bQ0gyXTM=
+
+>  <s_glide_core_atoms_lig>  (1) 
+17 18 19 20 15 16 14 12 13 9 10 11 8 5 6 7 2 1 3 4
+
+>  <s_glide_core_atoms_ref>  (1) 
+7 6 5 4 9 8 10 11 12 13 22 23 14 15 16 17 18 19 20 21
+
+>  <s_glide_core_constrain_type>  (1) 
+snapped_core_restrain
+
+>  <s_glide_core_smarts>  (1) 
+C1CCCc(c12)[nH]c(=O)c(C#N)c2-c3ccc(C)cc3
+
+>  <s_i_glide_gridfile>  (1) 
+grid_3JSW_20230619
+
+>  <s_lp_Force_Field>  (1) 
+S-OPLS
+
+>  <s_lp_Variant>  (1) 
+1-1
+
+>  <s_m_Source_File>  (1) 
+core1_tol_R1.sdf
+
+>  <s_m_Source_Path>  (1) 
+\\wsl.localhost\Ubuntu\home\hiroyuki\work\20241115_Rgroup_select
+
+>  <s_m_entry_id>  (1) 
+45271
+
+>  <s_m_entry_name>  (1) 
+PDE9A_paper_all_IC50_20240824.6
+
+>  <s_m_job_name>  (1) 
+glide-dock_SP_2457
+
+>  <s_m_subgroup_title>  (1) 
+PDE9A_paper_all_IC50_20240824->docking_core1
+
+>  <s_m_subgroupid>  (1) 
+PDE9A_paper_all_IC50_20240824->docking_core1_copy1
+
+>  <s_user_chemotype>  (1) 
+C_ring_aryl
+
+>  <s_user_duplicate_titles>  (1) 
+1
+
+$$$$
