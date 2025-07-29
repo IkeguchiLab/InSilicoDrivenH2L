@@ -19,6 +19,6 @@ InSilicoDrivenH2L/
 ├── Step3/ # M pocket optimization and screening results
 ├── conda_env/ # Conda virtual environment used for the study
 ├── Appendix/ # tautomer, glucronidation
-├── SMILES_excel/ # Excel files of compounds (selected R_group, Steps1-3)
+├── SMILES_excel/ # Excel files of compounds (selected R_group, Steps1-3, Bayer's paper)
 └── README.md
 ```
